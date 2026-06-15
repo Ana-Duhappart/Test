@@ -101,4 +101,4 @@ FROM Company_Year_Ranking
 WHERE Ranking <= 5
 ;
 
--- Teste GitHub --
+-- Teste GitHub 2 --
